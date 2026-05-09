@@ -7,7 +7,6 @@ The project is implemented in a Jupyter Notebook and is designed for learning pu
 
 - Computer Vision
 - Image Processing
-- Autonomous Vehicle Basics
 - OpenCV Applications
 
 ---
@@ -37,7 +36,7 @@ The project is implemented in a Jupyter Notebook and is designed for learning pu
 ## 📂 Project Structure
 
 ```bash
-├── Untitled.ipynb        # Main Jupyter Notebook
+├── laneDetect.ipynb        # Main Jupyter Notebook
 ├── road_drive.avi        # Input driving video
 └── README.md             # Project documentation
 ```
@@ -120,7 +119,7 @@ pip install opencv-python numpy jupyter
 jupyter notebook
 ```
 
-Open `Untitled.ipynb` and run all cells.
+Open `laneDetect.ipynb` and run all cells.
 
 ---
 
@@ -163,19 +162,6 @@ Possible improvements for this project include:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome.
-
-If you would like to improve this project:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
 
 ## 📜 License
 
@@ -187,4 +173,3 @@ This project is open-source and available under the MIT License.
 
 Developed by SAUMYA DE COSTA
 
-If you like this project, consider giving it a ⭐ on GitHub.
